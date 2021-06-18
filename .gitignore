@@ -1,3 +1,7 @@
+.metals
+.vscode
+!.vscode/settings.json
+
 # Compiled class file
 *.class
 
